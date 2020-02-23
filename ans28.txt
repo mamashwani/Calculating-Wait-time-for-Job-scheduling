@@ -1,0 +1,10 @@
+Job 1, burst time: 2, waiting time: 0
+Job 2, burst time: 4, waiting time: 18
+Job 3, burst time: 6, waiting time: 34
+Job 4, burst time: 8, waiting time: 48
+Job 5, burst time: 10, waiting time: 60
+Job 6, burst time: 12, waiting time: 70
+Job 7, burst time: 14, waiting time: 78
+Job 8, burst time: 16, waiting time: 84
+Job 9, burst time: 18, waiting time: 88
+Job 10, burst time: 20, waiting time: 90
